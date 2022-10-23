@@ -8,7 +8,7 @@
     box-sizing: border-box;
     margin: 5px 5px;
     padding: 0;
-    background-color: #F6D3E7;
+    background-color: #F8D8F0;
     zoom: 95%;
     scroll-behavior: smooth;
 }
@@ -74,9 +74,9 @@ header button:hover {
 
 .nav-links li a{
   transition: all .3s ease 0s;
-  font-style: bold;
   color: #FB92CC;
   font-size: 24px;
+  font-weight: bolder;
 }
 
 .nav-links li a:hover{
